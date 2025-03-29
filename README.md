@@ -3,7 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#meet-eleni-website">Meet Eleni's website</a>
+      <a href="#meet-elenis-website">Meet Eleni's website</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -66,7 +66,7 @@ If you don’t have Homebrew installed, install it first from [here][Homebrew-ur
    npm run dev
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#meet-elenis-website">back to top</a>)</p>
 
 <!-- ROADMAP -->
 <!-- ## Roadmap
