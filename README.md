@@ -68,7 +68,6 @@ If you don’t have Homebrew installed, install it first from [here][Homebrew-ur
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 <!-- ROADMAP -->
 <!-- ## Roadmap
 
@@ -79,8 +78,6 @@ If you don’t have Homebrew installed, install it first from [here][Homebrew-ur
 - [ ] Multi-language Support
     - [ ] English
     - [ ] Spanish -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
