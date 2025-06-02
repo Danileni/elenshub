@@ -1,6 +1,6 @@
 import React, { FC } from "react";
 import { getHighlightTextClass } from "./styles";
-import useRotatingBackground from "../../../hooks/useRotatingBackground";
+import { useRotatingBackground } from "../../../hooks";
 import { ComponentProps } from "../../../types/common";
 
 const HighlightText: FC<ComponentProps> = ({ children }) => {

@@ -4,7 +4,7 @@ import { IconButtonProps } from "./types";
 
 const IconButton: FC<IconButtonProps> = ({ onClick, className, screenReaderText, icon }) => {
   return (
-    <button onClick={onClick} className={getIconButtonClass(className)}>
+    <button id="icon-button" onClick={onClick} className={getIconButtonClass(className)}>
       <p className="sr-only">{screenReaderText}</p>
       {icon}
     </button>
